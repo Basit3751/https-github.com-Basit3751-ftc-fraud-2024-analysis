@@ -35,7 +35,8 @@ ftc-fraud-2024/
 └── README.md
 
 ## Dashboard Preview
-[Add screenshot of your Power BI dashboard here]
+## Dashboard Preview
+![Dashboard](output/dashboard_preview.png)
 
 ## Data Source
 FTC Consumer Sentinel Network Data Book 2024
